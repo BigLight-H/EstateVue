@@ -1,0 +1,1 @@
+<view class="prohibition"><view class="demo" style="{{('height:'+demo.height+'px;'+'padding-top:'+demo.top+'px;padding-bottom:10rpx')}}"><view class="left" style="{{('top:'+demo.top+'px')}}"><uni-icons vue-id="2da26e72-1" type="back" size="30" color="#bfbfbf" bind:__l="__l"></uni-icons></view>测试辣</view></view>

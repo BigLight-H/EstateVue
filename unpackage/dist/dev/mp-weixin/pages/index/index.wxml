@@ -1,0 +1,1 @@
+<view class="container"><view class="start_page kenburns-top"></view><view class="first-font"><text class="first-font-one">欢迎光临</text><text class="first-font-two">欢迎来到未来的家...</text></view><button data-event-opts="{{[['tap',[['star',['$event']]]]]}}" class="go-btn" bindtap="__e">点击进入</button></view>

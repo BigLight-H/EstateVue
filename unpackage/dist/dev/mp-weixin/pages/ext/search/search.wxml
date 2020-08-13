@@ -1,0 +1,1 @@
+<view class="search-base"><view class="search-block"><view class="search-ico-wapper"></view><input class="search-text" type="text" value="" placeholder="点击输入搜索内容" maxlength="10" focus="{{true}}"/><view class="search-ico-wapper1"><uni-icons class="search-ico" vue-id="1a57ab2e-1" type="search" size="20" color="#C0C0C0" bind:__l="__l"></uni-icons></view></view></view>

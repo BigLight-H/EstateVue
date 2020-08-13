@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "uni-icons": "/components/uni-icons/uni-icons",
+    "swiper-ext": "/pages/ext/swiper-dot/swiper-dot",
+    "nav-ext": "/pages/ext/pendant/nav-to",
+    "search-ext": "/pages/ext/search/search"
+  }
+}
